@@ -1,0 +1,40 @@
+_repo: Our-Own-SetA-Novel_35673
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Bell, Clara
+    birthdate: 1834
+    deathdate: 1927
+    gutenberg_agent_id: '1801'
+    url: http://www.gutenberg.org/2009/agents/1801
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schubin, Ossip
+    aliases:
+    - Kirschner, Lula
+    - Kirschner, Aloisia
+    - Kirschner, Lola
+    - Schubin, Osip
+    - Shubin, Osip
+    birthdate: 1854
+    deathdate: 1934
+    gutenberg_agent_id: '37646'
+    url: http://www.gutenberg.org/2009/agents/37646
+    wikipedia: http://en.wikipedia.org/wiki/Aloisia_Kirschner
+description: ''
+gutenberg_issued: '2011-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35673'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Austrian fiction -- Translations into English'
+- !lcc 'PT'
+title: 'Our Own Set: A Novel'
+url: http://www.gutenberg.org/ebooks/35673
